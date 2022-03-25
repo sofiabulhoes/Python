@@ -1,4 +1,3 @@
-  #str-string
 
 print("Essa é uma string bem aqui")
 print('Essa é uma \'string\' bem aqui') #A barra invertida faz o python ignorar o proximo caractere
